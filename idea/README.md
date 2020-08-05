@@ -2,9 +2,6 @@
 
 Import the project as a Maven project.
 
-Make sure to install the [Lombok plugin](https://plugins.jetbrains.com/plugin/6317)
-(File &rarr; Settings &rarr; Plugins &rarr; Browse Repositories...).
-
 There is a [code style available](code-style.xml).
 Copy the file into `<idea-home>/config/codestyles/Heroic.xml`, where
 `<idea-home>` is the home directory of IDEA (`~/.IdeaIC15`, `~/.IntelliJIdea15/`).
